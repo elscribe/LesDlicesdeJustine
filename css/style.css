@@ -1,0 +1,32 @@
+body {
+  font-family: sans-serif; /* Choisir une police de caractères */
+  margin: 0; /* Supprimer les marges par défaut */
+  padding: 0;
+}
+
+header {
+  background-color: #f0e68c; /* Couleur de fond du header - jaune pâle */
+  padding: 1em;
+  text-align: center;
+}
+
+nav ul {
+  list-style: none; /* Supprimer les puces */
+  padding: 0;
+  margin: 0;
+}
+
+nav li {
+  display: inline; /* Éléments de navigation en ligne */
+  margin: 0 1em; /* Marge entre les éléments */
+}
+
+main {
+  padding: 2em; /* Marge intérieure pour le contenu principal */
+}
+
+footer {
+  background-color: #f0e68c; /* Même couleur que le header */
+  text-align: center;
+  padding: 1em;
+}
